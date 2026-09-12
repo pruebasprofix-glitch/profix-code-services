@@ -1,0 +1,4 @@
+id,cliente,estado,proximo_contacto,nota
+C001,Cliente de ejemplo A,abierto,2026-09-10,Confirmar presupuesto solicitado
+C002,Cliente de ejemplo B,ganado,2026-09-10,Pedido confirmado
+C003,Cliente de ejemplo C,abierto,2026-09-20,Seguimiento acordado
