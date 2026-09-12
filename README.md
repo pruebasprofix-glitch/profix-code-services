@@ -18,6 +18,8 @@ These are starting prices, not automatic acceptance of a request. We agree on th
 
 ## Request a quote
 
+Email [pruebasprofix@gmail.com](mailto:pruebasprofix@gmail.com?subject=Automation%20quote) with your input format, expected output, and budget. No GitHub account is required. Use a fictional or anonymized sample; do not send credentials or confidential records.
+
 [Open a work request](https://github.com/pruebasprofix-glitch/profix-code-services/issues/new?template=work-request.yml) with a public repository or a small anonymized example, the actual result, and the expected result. A request is not an order or a payment commitment.
 
 Do not post passwords, tokens, personal data, payment details, or proprietary code in a public issue. If the task requires private access, describe that requirement without sharing access credentials.
