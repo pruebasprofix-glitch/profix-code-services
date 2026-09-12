@@ -1,0 +1,27 @@
+name: Request a small code fix
+description: Describe a task and receive a scope and fixed-price quote.
+title: '[Work request] '
+body:
+  - type: markdown
+    attributes:
+      value: 'This issue is public. Do not include secrets, payment details, or private data. Opening it does not create an order.'
+  - type: textarea
+    id: problem
+    attributes:
+      label: What needs to change?
+      description: Include actual and expected behavior, with a public repository or anonymized example.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: How will we know it works?
+      description: Describe one concrete acceptance check and your runtime or operating system.
+    validations:
+      required: true
+  - type: input
+    id: budget
+    attributes:
+      label: Budget and desired delivery date
+    validations:
+      required: true
