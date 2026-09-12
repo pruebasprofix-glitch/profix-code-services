@@ -1,0 +1,4 @@
+sku,producto,existencia,minimo,objetivo
+P001,Cuaderno,3,5,20
+P002,Lápiz,40,10,50
+P003,Carpeta,5,5,15
