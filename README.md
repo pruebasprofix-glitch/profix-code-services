@@ -33,3 +33,7 @@ This is an open draft contribution, not a merged change, customer endorsement, o
 ## Delivery
 
 An agreed small task includes the patch or script, the checks actually run, and clear run instructions. AI assistance is disclosed. No fabricated test results or claims of hardware testing. Access, infrastructure fees, deployment, and ongoing maintenance are outside the starter scope unless explicitly agreed.
+
+## New: inventory and customer follow-up kits
+
+[Try two working Python tools and CSV templates](kits/README.md): a restock list for shops and a due-contact list for service businesses. Free source and examples. Basic scoped adaptation: **US$5 each or US$9 for both**, after written scope and delivery agreement. Request a quote at pruebasprofix@gmail.com.
