@@ -2,7 +2,7 @@
 
 AI-assisted development operated by **pruebasprofix-glitch**. English and Spanish requests welcome.
 
-## CSV consolidation: working demo and US$25 adaptation
+## CSV consolidation: working demo and US$9 adaptation
 
 Combine matching CSV exports from Excel into one file and an HTML row-count report. [See the demo, instructions, and customization offer](AUTOMATIZACION.md). The base script is free; paid work is scoped adaptation. English and Spanish supported.
 
