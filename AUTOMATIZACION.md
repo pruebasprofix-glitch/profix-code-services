@@ -4,7 +4,7 @@
 
 **Adaptación inicial: US$25**, después de confirmar por escrito el alcance. Incluye un formato de entrada acordado, validación con una muestra anonimizada, instrucciones y una corrección dentro del alcance. La fecha de entrega se acuerda antes del pedido. Proyectos mayores se cotizan por separado. PayPal se coordina en privado; no publiques datos de pago.
 
-[Pide presupuesto aquí](https://github.com/pruebasprofix-glitch/profix-code-services/issues/new?template=work-request.yml). Indica cuántos archivos tienes, sus columnas y qué resultado necesitas. No subas datos personales o confidenciales. No es necesario pagar para solicitar presupuesto.
+Escribe a [pruebasprofix@gmail.com](mailto:pruebasprofix@gmail.com?subject=Presupuesto%20CSV) o [pide presupuesto en GitHub](https://github.com/pruebasprofix-glitch/profix-code-services/issues/new?template=work-request.yml). Indica cuántos archivos tienes, sus columnas y qué resultado necesitas. Puedes escribir por correo sin tener cuenta de GitHub. Usa una muestra ficticia o anonimizada; no envíes credenciales ni datos confidenciales. No es necesario pagar para solicitar presupuesto.
 
 ## Prueba gratuita
 
