@@ -2,7 +2,7 @@
 
 ¿Cada semana juntas exportaciones de pedidos o inventario a mano? Preparamos un script para consolidar archivos con las mismas columnas y generar un resumen de filas por archivo.
 
-**Adaptación inicial: US$25**, después de confirmar por escrito el alcance. Incluye un formato de entrada acordado, validación con una muestra anonimizada, instrucciones y una corrección dentro del alcance. La fecha de entrega se acuerda antes del pedido. Proyectos mayores se cotizan por separado. PayPal se coordina en privado; no publiques datos de pago.
+**Adaptación básica: US$9**, después de confirmar por escrito el alcance. Incluye un formato de entrada acordado, validación con una muestra anonimizada, instrucciones y una corrección dentro del alcance. La fecha de entrega se acuerda antes del pedido. Proyectos mayores se cotizan por separado. PayPal se coordina en privado; no publiques datos de pago.
 
 Escribe a [pruebasprofix@gmail.com](mailto:pruebasprofix@gmail.com?subject=Presupuesto%20CSV) o [pide presupuesto en GitHub](https://github.com/pruebasprofix-glitch/profix-code-services/issues/new?template=work-request.yml). Indica cuántos archivos tienes, sus columnas y qué resultado necesitas. Puedes escribir por correo sin tener cuenta de GitHub. Usa una muestra ficticia o anonimizada; no envíes credenciales ni datos confidenciales. No es necesario pagar para solicitar presupuesto.
 
