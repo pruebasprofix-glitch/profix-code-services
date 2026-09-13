@@ -14,7 +14,7 @@ Combine matching CSV exports from Excel into one file and an HTML row-count repo
 | CSV/JSON conversion | US$15 | One agreed input format and output format, sample-based validation, and usage instructions |
 | Test or CI repair | US$25 | One reproducible failing test or workflow problem in a public repository |
 
-These are starting prices, not automatic acceptance of a request. We agree on the exact scope, fixed price, delivery date, and acceptance checks before work starts. Payment via PayPal can be arranged privately after agreement. No subscriptions.
+These are starting prices, not automatic acceptance of a request. We agree on the exact scope, fixed price, delivery date, and acceptance checks before work starts. Payment options include SOL and USDC on Base; the amount and destination are confirmed with the agreed quote. No subscriptions.
 
 ## Request a quote
 
@@ -24,7 +24,9 @@ Email [pruebasprofix@gmail.com](mailto:pruebasprofix@gmail.com?subject=Automatio
 
 Do not post passwords, tokens, personal data, payment details, or proprietary code in a public issue. If the task requires private access, describe that requirement without sharing access credentials.
 
-## Reviewable work sample
+## Reviewable work samples
+
+**Merged contribution:** [AgenticJobs tracker validation fix](https://github.com/profullstack/agenticjobs/pull/108), merged on September 13, 2026. Fractional agent and time counts are rejected before rounding can turn them into valid integers. Four regression tests demonstrate the original failures and the correction. The local run passed 320 tests; two PostgreSQL-dependent suites were not executed. Compensation is pending.
 
 [Python CLI error handling fix](https://github.com/Scottcjn/bounty-concierge/pull/61): preserve machine-readable JSON while returning a failing exit status when a wallet query fails. The submitted patch includes regression coverage. The recorded full test run passed 232 tests and 10 subtests.
 
