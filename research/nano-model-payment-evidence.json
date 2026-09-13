@@ -1,0 +1,119 @@
+{
+  "observed_at": "2026-09-13T02:23:07Z",
+  "operator": "pruebasprofix-glitch",
+  "runtime": {
+    "platform": "Codex tool session, Bash on WSL Ubuntu",
+    "node": "v22.23.2",
+    "wallet_library": "nanocurrency@2.5.0"
+  },
+  "funding": {
+    "sent_xno": "0.0005",
+    "to": "nano_3q91z1it6o6xd5i85aj8usqt4frizq6sh6shkzwtp9gstbafif8t5m6eo1mr",
+    "hash": "4535FE1EA7B62044AC50634D96742FE08CB56247878B7DF5BD21AA3C04C19BF8",
+    "next": "run `nano-pay receive`, then retry the paid endpoint"
+  },
+  "local_faucet_pow": {
+    "root": "ce8aaa534377ade8b6f3d78d2fd4fd484f53e2c3c55c288a6a28d582c8aeb83f",
+    "difficulty": "fffffff800000000",
+    "work": "000000000c6bf975",
+    "started": "2026-09-13T02:16:55.888Z",
+    "completed": "2026-09-13T02:18:53.050Z",
+    "library": "nanocurrency@2.5.0"
+  },
+  "opening_block": {
+    "block": {
+      "type": "state",
+      "account": "nano_3q91z1it6o6xd5i85aj8usqt4frizq6sh6shkzwtp9gstbafif8t5m6eo1mr",
+      "previous": "0000000000000000000000000000000000000000000000000000000000000000",
+      "representative": "nano_3arg3asgtigae3xckabaaewkx3bzsh7nwz7jkmjos79ihyaxwphhm6qgjps4",
+      "balance": "500000000000000000000000000",
+      "link": "4535FE1EA7B62044AC50634D96742FE08CB56247878B7DF5BD21AA3C04C19BF8",
+      "work": "e30e880657b04643",
+      "signature": "B039BEFAA69940B3E2971A36BB5FFEF6F42EA1A44465E6F814328DDF1590B9C3E045D8532F0268B6208FAD3564292B04C8DFA1CE3FBC1DE35AE7BAFFEA8EB60E"
+    },
+    "subtype": "open",
+    "hash": "D62C25B92BC127864B599D22CD1C6FCAA4D1D866A142E86B84DF46041EA657B3",
+    "created_at": "2026-09-13T02:22:08.341Z"
+  },
+  "send_block": {
+    "block": {
+      "type": "state",
+      "account": "nano_3q91z1it6o6xd5i85aj8usqt4frizq6sh6shkzwtp9gstbafif8t5m6eo1mr",
+      "previous": "D62C25B92BC127864B599D22CD1C6FCAA4D1D866A142E86B84DF46041EA657B3",
+      "representative": "nano_3arg3asgtigae3xckabaaewkx3bzsh7nwz7jkmjos79ihyaxwphhm6qgjps4",
+      "balance": "400000000000000000000000000",
+      "link": "A3D9DB23BC9A1E03DFC22EAA2E7DF70108411EEB31470754A0926D23EC4D3FC5",
+      "work": "8dc83ed8ce038c47",
+      "signature": "79A38DFF2847C1E48150F5FBEC850A9BD548251F68B2347B9E7CFAE0FE5ECA7054074F90A98C69A9FBF2A2120454FB33BF50CDF57A238740CE4049A3F641240E"
+    },
+    "subtype": "send",
+    "hash": "B7431CFE6A10D263C6B20FE49487A550F23FA522A6DAAD0F9F06611F0A88D21D",
+    "created_at": "2026-09-13T02:22:42.268Z"
+  },
+  "quote": {
+    "x402Version": 2,
+    "resource": {
+      "url": "https://feeless402.com/premium",
+      "mimeType": "application/json"
+    },
+    "accepts": [
+      {
+        "scheme": "exact",
+        "network": "nano:mainnet",
+        "asset": "XNO",
+        "amount": "100000000000000000000000000",
+        "payTo": "nano_3aysuejus8iy1hhw6doc7syzg1aaa6hgpec91xcc36mf6hp6thy7u6ymkgfm",
+        "maxTimeoutSeconds": 60
+      }
+    ]
+  },
+  "paid_http_status": 200,
+  "payment_response": {
+    "success": true,
+    "hash": "B7431CFE6A10D263C6B20FE49487A550F23FA522A6DAAD0F9F06611F0A88D21D",
+    "confirmed": true,
+    "network": "nano:mainnet"
+  },
+  "paid_response": {
+    "premium": true,
+    "message": "You just paid a fraction of a mill for this via a feeless rail. Welcome to the machine economy.",
+    "payer": "nano_3q91z1it6o6xd5i85aj8usqt4frizq6sh6shkzwtp9gstbafif8t5m6eo1mr",
+    "paid_xno": "0.0001",
+    "timestamp": 1789266163
+  },
+  "paid_response_sha256": "fff8d1f5a3431798df51d40cbdda90fe5c7ea6043f01f44eb53a4d33822dfedc",
+  "node_verification": {
+    "hash": "B7431CFE6A10D263C6B20FE49487A550F23FA522A6DAAD0F9F06611F0A88D21D",
+    "found": true,
+    "ok": true,
+    "confirmed": true,
+    "subtype": "send",
+    "from": "nano_3q91z1it6o6xd5i85aj8usqt4frizq6sh6shkzwtp9gstbafif8t5m6eo1mr",
+    "to": "nano_3aysuejus8iy1hhw6doc7syzg1aaa6hgpec91xcc36mf6hp6thy7u6ymkgfm",
+    "amount_raw": "100000000000000000000000000",
+    "amount_nano": "0.0001",
+    "height": 2,
+    "local_timestamp": 1789266162,
+    "checked_at": "2026-09-13T02:23:06.685Z",
+    "node": "pursekeeper.dev"
+  },
+  "balance_after": {
+    "account": "nano_3q91z1it6o6xd5i85aj8usqt4frizq6sh6shkzwtp9gstbafif8t5m6eo1mr",
+    "found": true,
+    "open": true,
+    "frontier": "B7431CFE6A10D263C6B20FE49487A550F23FA522A6DAAD0F9F06611F0A88D21D",
+    "confirmed_frontier": "B7431CFE6A10D263C6B20FE49487A550F23FA522A6DAAD0F9F06611F0A88D21D",
+    "confirmed": true,
+    "balance_raw": "400000000000000000000000000",
+    "balance_nano": "0.0004",
+    "confirmed_balance_raw": "400000000000000000000000000",
+    "receivable_raw": "0",
+    "representative": "nano_3arg3asgtigae3xckabaaewkx3bzsh7nwz7jkmjos79ihyaxwphhm6qgjps4",
+    "block_count": 2,
+    "confirmation_height": 2,
+    "checked_at": "2026-09-13T02:23:07.528Z",
+    "node": "pursekeeper.dev"
+  },
+  "observed_choice_excerpt_es": "La fuente gratuita de Nano envió 0,0005 XNO para la prueba. Ese saldo no cuenta como ingreso por trabajo. La API cotiza 0,0001 XNO; elijo usar esa llamada para documentar el pago decidido por el modelo y presentar la evidencia a pursekeeper.",
+  "evidence_limit": "Curated model-visible commentary and tool-result excerpts; not a signed export of the entire conversation. External cryptographic evidence proves payment, not model authorship."
+}
