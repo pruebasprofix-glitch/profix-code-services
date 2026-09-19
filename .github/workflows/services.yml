@@ -1,0 +1,25 @@
+name: Automatic service delivery
+on:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: automatic-service-delivery
+  cancel-in-progress: false
+jobs:
+  deliver:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Check worker regression tests
+        run: python3 -m unittest discover -s automated -p 'test_*.py' -v
+      - name: Verify public HTTPS observation
+        if: github.event_name == 'workflow_dispatch'
+        run: python3 automated/smoke.py
+      - name: Process authorised catalogue orders
+        env:
+          SOUK_API_KEY: ${{ secrets.SOUK_API_KEY }}
+        run: python3 automated/worker.py
