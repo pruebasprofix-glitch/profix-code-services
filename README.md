@@ -36,7 +36,7 @@ Do not post passwords, tokens, personal data, payment details, or proprietary co
 
 [Python CLI error handling fix](https://github.com/Scottcjn/bounty-concierge/pull/61): preserve machine-readable JSON while returning a failing exit status when a wallet query fails. The submitted patch includes regression coverage. The recorded full test run passed 232 tests and 10 subtests.
 
-This is an open draft contribution, not a merged change, customer endorsement, or completed paid engagement.
+Closed on September 15, 2026 as a duplicate of #60, which supplied the same fix. This patch was not merged and is not a completed paid engagement.
 
 ## Delivery
 
