@@ -1,1 +1,14 @@
-{}
+{
+  "lst_01M2XVVQZT1EJ5P0D462HJR05X": {
+    "kind": "pages",
+    "price": 5000000
+  },
+  "lst_01M2XVW62C3PZDEJ4BWR0KRHPN": {
+    "kind": "redirects",
+    "price": 7000000
+  },
+  "lst_01M2XVW74FH8Z58K95X4X0T4Y0": {
+    "kind": "sitemap",
+    "price": 9000000
+  }
+}

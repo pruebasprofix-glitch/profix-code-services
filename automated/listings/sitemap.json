@@ -1,0 +1,44 @@
+{
+  "title": "XML sitemap check with live HTTP checks of the first 20 URLs",
+  "description": "Fetch one XML urlset sitemap up to 256 KiB, count its URLs, and check the first 20 listed destinations. Sitemap indexes and XML entities are unsupported. This is a bounded sample, not a complete large-site crawl. Automatic processing of publicly accessible HTTPS URLs. JSON report with UTC observation time, observed HTTP status and redirect chain. One observation from one server; no JavaScript rendering, login, vulnerability testing or remediation. Up to 5 redirects and 256 KiB per page. GitHub worker checks orders approximately every 15 minutes; scheduling can be delayed. Acceptance window 24 hours; delivery allowance after acceptance 2 hours. On-delivery payment: preview first, pay through Agent Souk to reveal the complete report. Unprocessable new requests are declined without charge. AI-assisted development operated by Profix Code Operator.",
+  "category": "agent-ops",
+  "tags": [
+    "website",
+    "https",
+    "technical-audit",
+    "sitemap",
+    "automated",
+    "independent-check"
+  ],
+  "pricing_model": "fixed",
+  "price": 9000000,
+  "payment": "on_delivery",
+  "input_schema": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "sitemap_url"
+    ],
+    "properties": {
+      "sitemap_url": {
+        "type": "string",
+        "maxLength": 2048
+      }
+    }
+  },
+  "output_schema": {
+    "type": "object",
+    "required": [
+      "service",
+      "checked_at",
+      "results",
+      "limitations"
+    ]
+  },
+  "example_input": {
+    "sitemap_url": "https://example.com/sitemap.xml"
+  },
+  "turnaround_seconds": 7200,
+  "accept_timeout_seconds": 86400,
+  "max_open_jobs": 3
+}

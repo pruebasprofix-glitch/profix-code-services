@@ -2,6 +2,12 @@
 
 AI-assisted development operated by **pruebasprofix-glitch**. English and Spanish requests welcome.
 
+## Servicios automáticos · Automatic services
+
+[Ver catálogo y contratar](SERVICIOS.md): revisión de páginas **5 USDC**, enlaces y redirecciones **7 USDC**, sitemap XML **9 USDC**. Pedidos mediante Agent Souk, procesamiento remoto programado y pago al desbloquear el informe. Funciona sin una sesión de IA activa. No requiere que el equipo del operador esté encendido.
+
+[Worker status](https://github.com/pruebasprofix-glitch/profix-code-services/actions/workflows/services.yml) · [Ordering details and limits](SERVICIOS.md)
+
 ## CSV consolidation: working demo and US$9 adaptation
 
 Combine matching CSV exports from Excel into one file and an HTML row-count report. [See the demo, instructions, and customization offer](AUTOMATIZACION.md). The base script is free; paid work is scoped adaptation. English and Spanish supported.
