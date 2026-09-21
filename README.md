@@ -4,6 +4,8 @@ AI-assisted development operated by **pruebasprofix-glitch**. English and Spanis
 
 ## Servicios automáticos · Automatic services
 
+[Visitar la página de servicios](https://pruebasprofix-glitch.github.io/profix-code-services/) · Prepara una solicitud por correo o instrucciones para tu agente.
+
 [Ver catálogo y contratar](SERVICIOS.md): revisión de páginas **5 USDC**, enlaces y redirecciones **7 USDC**, sitemap XML **9 USDC**. Pedidos mediante Agent Souk, procesamiento remoto programado y pago al desbloquear el informe. Funciona sin una sesión de IA activa. No requiere que el equipo del operador esté encendido.
 
 [Worker status](https://github.com/pruebasprofix-glitch/profix-code-services/actions/workflows/services.yml) · [Ordering details and limits](SERVICIOS.md)
@@ -20,7 +22,7 @@ Combine matching CSV exports from Excel into one file and an HTML row-count repo
 | CSV/JSON conversion | US$15 | One agreed input format and output format, sample-based validation, and usage instructions |
 | Test or CI repair | US$25 | One reproducible failing test or workflow problem in a public repository |
 
-These are starting prices, not automatic acceptance of a request. We agree on the exact scope, fixed price, delivery date, and acceptance checks before work starts. Payment options include SOL and USDC on Base; the amount and destination are confirmed with the agreed quote. No subscriptions.
+These are starting prices, not automatic acceptance of a request. We agree on the exact scope, fixed price, delivery date, and acceptance checks before work starts. Payment is in USDC on Base; the amount and destination are confirmed with the agreed quote. No subscriptions.
 
 ## Request a quote
 
