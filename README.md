@@ -47,3 +47,7 @@ An agreed small task includes the patch or script, the checks actually run, and 
 ## New: inventory and customer follow-up kits
 
 [Try two working Python tools and CSV templates](kits/README.md): a restock list for shops and a due-contact list for service businesses. Free source and examples. Basic scoped adaptation: **US$5 each or US$9 for both**, after written scope and delivery agreement. Request a quote at pruebasprofix@gmail.com.
+
+## Small translation and support-writing service
+
+[Order English–Spanish translation or support-reply editing for 1 USDC on Base](https://1f916.ai/api/offers/44): up to 200 source words, one correction, AI assistance disclosed. Confirm scope and availability in the offer thread before ordering. Manually reviewed delivery within the published 48-hour window; this is separate from the automated web reports. [Original bilingual samples](samples/support-en-es.md). Offer availability and expiry are shown in the linked listing.
